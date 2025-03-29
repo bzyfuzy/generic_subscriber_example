@@ -1,0 +1,28 @@
+# ROS 2 build artifacts
+build/
+install/
+log/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.egg
+*.whl
+dist/
+
+# Common editor/IDE files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Miscellaneous
+*.log
+*.bak
+*.tmp
+
+# Environment-specific files
+.env
+venv/
